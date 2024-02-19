@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Khaled Ahmed Esmail</h1>
-<h3 align="center">I am a student at Fayoum University in the Faculty of Computers and Information</h3>
+<h3 align="center">I am a flutter developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ka1395&label=Profile%20views&color=0e75b6&style=flat" alt="ka1395" /> </p>
 
 <p align="left"> <a href="https://twitter.com/khaledahmed_i" target="blank"><img src="https://img.shields.io/twitter/follow/khaledahmed_i?logo=twitter&style=for-the-badge" alt="khaledahmed_i" /></a> </p>
 
-- 🌱 I’m currently learning **Mobile Application Development**
+- 🌱 I’m currently work as  **Mobile Application Development**
 
 - 👨‍💻 All of my projects are available at [https://github.com/ka1395](https://github.com/ka1395)
 
